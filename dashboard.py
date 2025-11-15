@@ -92,8 +92,8 @@ else:
     
     st.divider() # Linha divisória
     
-    # --- Nossas 3 Análises ---
-    st.header("💡 Nossos 3 Insights Principais")
+    # --- As 3 Análises ---
+    st.header("💡 Os 3 Insights Principais")
 
     # --- Análise 1 ---
     st.subheader("Análise 1: A 'Velocidade Viral' (Views por Hora)")
