@@ -5,7 +5,7 @@ from googleapiclient.discovery import build
 
 # --- Configurações ---
 # ID do vídeo
-VIDEO_ID = "8uaQnl9Bbdw" 
+VIDEO_ID = "BYy278lrtNA" 
 
 # Nome do banco de dados
 DB_NAME = "youtube_stats.db"
